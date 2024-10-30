@@ -1,4 +1,6 @@
 *.exe
 *.out
 *.txt
-*/.vscode
+algo1/.vscode/
+algo2/.vscode/
+algo3/.vscode/
