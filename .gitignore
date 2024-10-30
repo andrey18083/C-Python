@@ -1,6 +1,6 @@
 *.exe
 *.out
 *.txt
-algo1/.vscode/
-algo2/.vscode/
-algo3/.vscode/
+C++/algos3/.vscode/
+C++/algos2/.vscode/
+C++/algos1/.vscode/
